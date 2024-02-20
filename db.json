@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": "a90fc37e-64cc-4bc8-b7c6-3a68a36e152d",
+      "text": "Read Documents",
+      "is_done": false,
+      "created_at": "20/02/2024"
+    },
+    {
+      "id": "a57d55fa-0f66-4163-804d-43a47ba5f99c",
+      "text": "Prepare Your Cv",
+      "is_done": true,
+      "created_at": "20/02/2024"
+    }
+  ]
+}
